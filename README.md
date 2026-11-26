@@ -2,7 +2,7 @@
 
 One shared set of synthetic patients for several projects: FHIR R4 bundles generated with Synthea, a manifest of their hashes, a `members.json` saying what a payer would know about each patient's coverage, and the tooling that generates and checks them. The same inputs give the same bytes.
 
-**Status:** slice 1 (move and publish). The first release will be the tag `v0.1.0`. Design: [docs/spec.md](docs/spec.md) and [docs/adr/](docs/adr/).
+**Status:** released as `v0.1.0`. Design: [docs/spec.md](docs/spec.md) and [docs/adr/](docs/adr/).
 
 ## Use it
 
