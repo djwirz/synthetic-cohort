@@ -1,0 +1,6 @@
+# gitleaks config: the default rules. Add narrow allowlist entries (one exact finding
+# each) only for published test values, with the source in a comment.
+title = "synthetic-cohort"
+
+[extend]
+useDefault = true
