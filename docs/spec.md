@@ -30,9 +30,12 @@ src/synthetic_cohort/
     manifest.json            generation settings and a sha256 of every data file
     synthea.properties       settings that differ from Synthea's defaults
     keep_respiratory.json    keep filter for the respiratory run
-  generate.py  members.py  manifest.py  check.py  cli.py
+  generate.py  check.py  cli.py
+  _members.py  _manifest.py
 tests/
 ```
+
+`_members.py` and `_manifest.py` are private so their names don't collide with the functions `synthetic_cohort.members()` and `synthetic_cohort.manifest()` (§4).
 
 The data lives inside the package because a git dependency installs the package, not the repository (ADR 0002).
 
