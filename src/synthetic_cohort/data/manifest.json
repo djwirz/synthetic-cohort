@@ -1,0 +1,196 @@
+{
+  "files": {
+    "general-0070a555-dd5a-1588-1ee1-40ec4e105829.json": {
+      "bytes": 558661,
+      "sha256": "5b6333c2e7febbb75eaaf4f4ecfb086baa8d9587ee7d460f0e91f080e4c04453"
+    },
+    "general-23b79699-eacd-1eb6-efad-a51b7163767d.json": {
+      "bytes": 435074,
+      "sha256": "ec561165b2152276ad3a3ee6108196fcbd9b776c9774691994c6e1d05120a027"
+    },
+    "general-2a688507-a5b7-19f6-f586-46985001b814.json": {
+      "bytes": 248704,
+      "sha256": "3faccba782d8d6765b7f9f86c4809980f1ae4dc0d3120f04e45bc3713177ced6"
+    },
+    "general-3adcff41-4d3a-7c8e-4784-cf273f35bd76.json": {
+      "bytes": 367046,
+      "sha256": "9ca6deacbf5d02481afd82e271fec505d595bbf8f3cb3210099939fedcd474e7"
+    },
+    "general-4aacd0dc-ebb3-5fc6-1b03-173cbe828d78.json": {
+      "bytes": 533781,
+      "sha256": "f97618efe155a8b9088d51cb02bcc51532c33149bd16023353b826d050f340a9"
+    },
+    "general-7e36b24b-a1fa-2d29-61c9-dd9a07fbb946.json": {
+      "bytes": 282892,
+      "sha256": "e9f4f8312cadba9d72838e4439d167ce7fc8e9ac51e6e755b3076ef76e343211"
+    },
+    "general-8c0b9d53-1cd9-7ff0-3e24-99649636354c.json": {
+      "bytes": 375030,
+      "sha256": "be37bd8a9480980c506cc3c5d11014b6ca101478a3ea527558a7662f1c143655"
+    },
+    "general-a17d25c8-9c05-95cb-09a7-45383afca2d8.json": {
+      "bytes": 336748,
+      "sha256": "88d95865a29f07236be7ecfd29de7ce22ad206d027fe338c9e6da8f58d72a62c"
+    },
+    "general-a251d438-6878-682e-e8be-cf754469f690.json": {
+      "bytes": 526986,
+      "sha256": "7e1b5ace8239087f253b1a2473d2b2c11bcdc3a0807818007561803fed35de4f"
+    },
+    "general-b3965744-a4b8-d4b6-1948-7ca449bb653a.json": {
+      "bytes": 482318,
+      "sha256": "634dd95bce1d6c0a3bc2e5eea33900bda55efc253a5b3ccb9647e89702cec348"
+    },
+    "general-c132d468-3948-1a40-eb86-f51b9dbbef33.json": {
+      "bytes": 587481,
+      "sha256": "e2dc6d43d2c99c7a37425ab27ca725d891740c70bbc63d8fa5a5c92157c63e2c"
+    },
+    "general-ca8a3673-3ae6-fcf7-c1e7-319032b8e71f.json": {
+      "bytes": 276653,
+      "sha256": "03715e1245185e8f0ebd7984842e1841234e15ad0503d0475678a0172ba22478"
+    },
+    "general-eac33785-a904-46f7-fd4d-b615dbb05196.json": {
+      "bytes": 559905,
+      "sha256": "9ea4a16c4143d59e07fd7386a07609e9757b1bda82c5c5b07fec59deb17c05c4"
+    },
+    "general-ead588ab-42d1-b6e5-861f-7b56cf14a0cd.json": {
+      "bytes": 322289,
+      "sha256": "d73ab582118b8ad73f87f5da72cb48eff02f80f9b1b99262d125cc3f9726f907"
+    },
+    "general-f161e5c6-9690-3349-8015-e11e09f456d4.json": {
+      "bytes": 268926,
+      "sha256": "f2516b5ba57b1289df87065bbd7bdac93768c4318b6f8d85622e6900d88051c8"
+    },
+    "general-hospitalInformation.json": {
+      "bytes": 173345,
+      "sha256": "65f99ff08d3f1fdf2ffd27e4e26419e523fd754cb94c2a65518dcbaa1c7d748e"
+    },
+    "general-practitionerInformation.json": {
+      "bytes": 181398,
+      "sha256": "f3941f53a5b63892f4fc687eb22f6ef2d6b037a775fdd17802372680077988a8"
+    },
+    "resp-1b8464be-e7ab-03a6-1a44-8c7457e297c2.json": {
+      "bytes": 819335,
+      "sha256": "33884be446a44204e99b2e8a7a3addd4535f60d3fe3bb4aa121eeca0745c2b2d"
+    },
+    "resp-2b89536b-43a7-9ebb-c484-224620223652.json": {
+      "bytes": 631397,
+      "sha256": "3dbce2368149667bd5fb495ef36ecd6573885605c184fbfd6c158f1f4efdd973"
+    },
+    "resp-339b80d0-298c-2361-383d-0519de583e22.json": {
+      "bytes": 296026,
+      "sha256": "6ceae7bdc39079aa869bd7da8a6e93394f1a7c614d6ff5a593e370c8824dc7fa"
+    },
+    "resp-3a80dc37-d20a-4a7b-fb85-d071f061e2ab.json": {
+      "bytes": 348285,
+      "sha256": "7054e575bd85a7d3fcedea09ec380b08859a091fb5594d2937ccc556d3327dc8"
+    },
+    "resp-41b93c2f-0d7e-b679-b7a8-98d62e9ece54.json": {
+      "bytes": 729808,
+      "sha256": "c1cf3d9516055e2c13fc0abe1a5089f6ef2a0e7cfc2431abbd696e4b6f89e9d9"
+    },
+    "resp-5026c09f-b778-4375-a60e-ec3cb767e2b9.json": {
+      "bytes": 832405,
+      "sha256": "b413c548ee971ff0bdf9f5d0c3322d9a79ecc16cab671a3ae3302ea128bd97a9"
+    },
+    "resp-5d806c1f-cc6a-a1f0-441b-bac31a90321e.json": {
+      "bytes": 495164,
+      "sha256": "956b6c59fcdcbd6edb53c5390c9eccbaed71330cb7945125ce8ef61ab8a8e8b5"
+    },
+    "resp-6d59c09e-57b0-171c-063a-93c29d31e190.json": {
+      "bytes": 657291,
+      "sha256": "424508edfceaaaf8d493f59252ae0fa03b75426b9a3fa4ca972b2fc707b0c7c3"
+    },
+    "resp-6fb2a51e-fae8-eea6-d879-27fe6dc70a35.json": {
+      "bytes": 1121012,
+      "sha256": "319df3c17b3586991af5cc7111ba87da81d55f0b71ef6ab7296c1e74d8d3ed61"
+    },
+    "resp-714e0bac-10f3-1a43-8fd2-85ac47fb34f7.json": {
+      "bytes": 662694,
+      "sha256": "7e47517c744e78241d9361eedd7c21af29790732a1af37dcae3ffc73930edb4d"
+    },
+    "resp-7838a42f-5677-d482-c27f-3ea705ad3541.json": {
+      "bytes": 1005287,
+      "sha256": "d9aeb6a1eccdd43967fe72de68c08a17d4f2d73b31dded733751f390f2197ab8"
+    },
+    "resp-a2c58cb0-f6a9-0d66-4769-e4db5c9ee0a5.json": {
+      "bytes": 722776,
+      "sha256": "aed24f951818530dacba0c84514608767685210453c7fa9a606ac1a835206e8b"
+    },
+    "resp-abf523c9-3ff5-61a6-f2c7-d85a8be97a82.json": {
+      "bytes": 3092076,
+      "sha256": "62b3a3d4264e398eff3b2d1f8f20e8b65f822286b8bc5019e2892f919738afc3"
+    },
+    "resp-c1e4023a-bd76-a6d0-9adc-081333f2705a.json": {
+      "bytes": 206940,
+      "sha256": "60a05c30bf7b4e2d7c8da4922c4c925a35bdf483e53c91a38372b4edab625bf6"
+    },
+    "resp-c7d535d8-0af4-14c7-f822-1d19b4bbad03.json": {
+      "bytes": 827722,
+      "sha256": "f2300894e1eea42e2456836958912308af1592ea802286c02a3bf47326c5ea54"
+    },
+    "resp-d73c857e-0448-0e16-e88e-cee9980c233f.json": {
+      "bytes": 512259,
+      "sha256": "9bd03d71e56334d376206aa30ed3e7659b9f117073e9a48420da41c85afb7e30"
+    },
+    "resp-ec4d0285-f3ec-90cf-9b68-544982adeacd.json": {
+      "bytes": 745372,
+      "sha256": "f9b43da7e7b032369cf7988daad6a91d343505ffed8a0e862eaa8a50cd4ce709"
+    },
+    "resp-f21c4f2e-dcb5-1fd1-03df-1718aad3d924.json": {
+      "bytes": 736867,
+      "sha256": "7bd57e703cc93ce38cac1745edf8eacab8c0125470053884f88d33a4aafd7c8b"
+    },
+    "resp-f7108d4c-417f-abac-6054-88b60d65fe79.json": {
+      "bytes": 455338,
+      "sha256": "dcb9206d58fb7c1f6523e943fc3dbbdfcdaca315a20f2694aff79f499f896eda"
+    },
+    "resp-ff3da156-d59b-373a-540b-072bf70ae8f0.json": {
+      "bytes": 244517,
+      "sha256": "168e30e535b479f09a759ef729feb1c0e78751e0417ce39e76d4ab93fc8448e9"
+    },
+    "resp-hospitalInformation.json": {
+      "bytes": 1366419,
+      "sha256": "8ecf393abd490facb2f16a9a9a961a650d9c6ddd1f80200ffd30338f52358b0e"
+    },
+    "resp-practitionerInformation.json": {
+      "bytes": 1435697,
+      "sha256": "f3639219a52da21ae2bf1f87c17ddaa89ff76a73693850e0d23893e9e6aa1424"
+    }
+  },
+  "generation": {
+    "jre_image": "eclipse-temurin:21.0.12.1_1-jre-noble@sha256:cd35bb33859641c5374415826a5951845104093eaa401cbe9d3d9023444f1c13",
+    "keep_module_sha256": "33a31ac5eb5a211d04ce74096ed9edbea6f583783d6c6aaa302ff346213e7535",
+    "properties_sha256": "fd416da7ff8d91feb80af9ced069e5a3128fb60da1d5300522f12493f3e6a240",
+    "reference_date": "20261101",
+    "runs": [
+      {
+        "clinician_seed": 1122,
+        "keep_module": null,
+        "name": "general",
+        "population": 15,
+        "seed": 1122
+      },
+      {
+        "clinician_seed": 2211,
+        "keep_module": "keep_respiratory.json",
+        "name": "resp",
+        "population": 20,
+        "seed": 2211
+      }
+    ],
+    "state": "Massachusetts",
+    "synthea_jar_sha256": "ed43c20ad40ba5c3bc724503a5af032715fe3c491620b766148e7c2361e6ecc1",
+    "synthea_version": "4.0.0"
+  },
+  "members": {
+    "counts": {
+      "ambiguous": 4,
+      "covered": 23,
+      "inactive": 4,
+      "missing": 4
+    },
+    "seed": 3311,
+    "sha256": "3fa3c7cb297b083a4b914882eb4ec295006e3a66aa89ce49c1fda26261e95e98"
+  },
+  "total_bytes": 24461924
+}

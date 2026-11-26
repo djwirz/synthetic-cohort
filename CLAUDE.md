@@ -3,7 +3,9 @@
 One shared, byte-reproducible set of synthetic patients for Dan's projects: Synthea FHIR bundles, a manifest of their hashes, a `members.json` of coverage states, and the tooling that makes and checks them. FHIR over MCP uses the bundles and Coverage Check uses the members, so both tell one story with the same people. Use they/them for Dan.
 
 ## Status
-Planning: `docs/spec.md` and ADRs 0001–0003 are proposed in PR #1. The ADRs say `Accepted`, and merging accepts them. No code or data has moved yet. The judgment behind the project is in `docs/artifact-spec.md`.
+Slice 1 (spec §9) moves the data and tooling here and adds `members.json`. After it merges, tag `v0.1.0` on `main`; the consumers then move to that tag in their own repos. Decisions: `docs/spec.md` and `docs/adr/`. The judgment behind the project is in `docs/artifact-spec.md`.
+
+Check a change with `uv run ruff check`, `uv run ruff format --check`, `uv run mypy` and `uv run pytest`.
 
 ## How we work
 - Pull requests only. Never push to `main`. Merged PRs are the project's record.

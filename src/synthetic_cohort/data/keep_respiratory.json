@@ -1,0 +1,30 @@
+{
+  "name": "Keep patients with asthma or COPD",
+  "remarks": [
+    "Used with Synthea's -k flag for the respiratory-enriched run (ADR 0007).",
+    "Codes are the ConditionOnset codes in Synthea v4.0.0's asthma.json and copd.json."
+  ],
+  "states": {
+    "Initial": {
+      "type": "Initial",
+      "conditional_transition": [
+        {
+          "transition": "Keep",
+          "condition": {
+            "condition_type": "Or",
+            "conditions": [
+              {"condition_type": "Active Condition", "codes": [{"system": "SNOMED-CT", "code": "195967001", "display": "Asthma (disorder)"}]},
+              {"condition_type": "Active Condition", "codes": [{"system": "SNOMED-CT", "code": "233678006", "display": "Childhood asthma (disorder)"}]},
+              {"condition_type": "Active Condition", "codes": [{"system": "SNOMED-CT", "code": "87433001", "display": "Pulmonary emphysema (disorder)"}]},
+              {"condition_type": "Active Condition", "codes": [{"system": "SNOMED-CT", "code": "185086009", "display": "Chronic obstructive bronchitis (disorder)"}]}
+            ]
+          }
+        },
+        {"transition": "Terminal"}
+      ]
+    },
+    "Terminal": {"type": "Terminal"},
+    "Keep": {"type": "Terminal"}
+  },
+  "gmf_version": 2
+}
