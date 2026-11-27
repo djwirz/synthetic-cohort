@@ -15,7 +15,7 @@ Check a change with `uv run ruff check`, `uv run ruff format --check`, `uv run m
 - ADRs are written as `Accepted` in the PR that adds them, and merging is the acceptance. Never rewrite a merged ADR's decision. Add a new ADR that supersedes it.
 - When the spec and the code disagree, stop and ask. If the decision changes, update the spec in the same PR.
 - A change to any bundle or to `members.json` changes the consumers' test data and eval ground truth. Say so in the PR and release it as a new version.
-- Built with Claude Code in the open: note real mistakes in PR descriptions.
+- Built with Claude Code. Note real mistakes in PR descriptions.
 
 ## Constraints
 - Never employer code, data or names beyond what's public. Synthetic data only (Synthea).
